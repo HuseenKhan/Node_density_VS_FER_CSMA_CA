@@ -19,7 +19,7 @@ Example:
 
 ![User Input](user_input.png)
 
-At the end of the simulation, the terminal displays the collision rate of each node.
+At the end of the simulation, the terminal displays the performance of each node.
 
 ![Simulation Result](simulation_result.png)
 
