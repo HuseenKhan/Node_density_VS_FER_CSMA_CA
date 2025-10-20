@@ -11,24 +11,15 @@ This project analyzes how node density impacts collision and frame error rate (F
 
 ---
 
-## 📊 Simulation Result
-📊 Simulation Result  
+## Simulation Result
+ 
 ![Simulation Result](simulation_result.png)
 
-⚙️ User Input Example  
+User Input Example  
 ![User Input](user_input.png)
 
-📊 Simulation Result  
-![Simulation Result](simulation_result.png)
-
-⚙️ User Input Example  
-![User Input](user_input.png)
 
 ---
-
-## ⚙️ User Input Example
-user_input.png
-
 ---
 
 ### 🧩 How to Run
