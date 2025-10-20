@@ -16,6 +16,7 @@ Simulation time (in time slots)
 Note: The duration of one time slot is 10 µs.
 
 Example:
+
 ![User Input](user_input.png)
 
 At the end of the simulation, the terminal displays the error rate of each node.
